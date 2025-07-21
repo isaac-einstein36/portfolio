@@ -24,7 +24,10 @@ baseurl: "/portfolio"
 navbar-links:
   About Me: "/aboutme/"
   Resume: "/resume/"
-  Projects: "/projects/"
+  Projects: #"/projects/"
+      - All Projects: "/projects/"
+      - Smart Nap Pod: "/projects/nap-pod/"
+      
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
