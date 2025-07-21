@@ -33,11 +33,11 @@ I was initially born in Cleveland, Ohio and moved to Dayton in elementary school
 <!-- Add Picture of XC -->
 <div style="display: flex; gap: 25px; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="/assets/img/cross_country/xc_freshman.jpeg" alt="Freshman XC" style="width: 250px; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/img/cross_country/xc_freshman.jpeg" alt="Freshman XC" style="width: 250px; border-radius: 8px;">
     <figcaption>Freshman Year (2016)</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="/assets/img/cross_country/xc_senior.jpeg" alt="Senior XC" style="width: 250px; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/img/cross_country/xc_senior.jpeg" alt="Senior XC" style="width: 250px; border-radius: 8px;">
     <figcaption>Senior Year (2020)</figcaption>
   </figure>
 </div>
@@ -48,7 +48,7 @@ My twin sister and I are the youngest of 5 children, and all of us attended THE 
 <!-- Add picture of family -->
 <div style="display: flex; justify-content: center; margin-bottom: 1em;">
   <figure style="text-align: center;">
-    <img src="/assets/img/family_pic.jpg" alt="Family Photo" style="width: 525px; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/img/family_pic.JPG" alt="Family Photo" style="width: 525px; border-radius: 8px;">
     <figcaption>My family at my oldest sister's wedding (2023)</figcaption>
   </figure>
 </div>
@@ -62,8 +62,8 @@ I started my exploration into possible careers with a co-op with ExxonMobil at t
 
 <!-- Add picture of Exxon Internship -->
 <div style="display: flex; gap: 25px; justify-content: center;">
-  <img src="/assets/img/internships/exxon_internship.jpeg" alt="Exxon Internship" style="width: 250px; border-radius: 8px;">
-  <img src="/assets/img/internships/swamp_tour.jpg" alt="Swamp Tour" style="width: 250px; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/img/internships/exxon_internship.jpeg" alt="Exxon Internship" style="width: 250px; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/img/internships/swamp_tour.jpg" alt="Swamp Tour" style="width: 250px; border-radius: 8px;">
 </div>
 <p style="text-align: center; margin-top: 8px; color: #555;">
   My first engineering co-op at ExxonMobil in Baton Rouge, LA (Spring 2022)
@@ -76,7 +76,7 @@ After these internships in two vastly different industries, I investigated and d
 <!-- Add picture of Medtronic Internship -->
 <div style="display: flex; justify-content: center; margin-bottom: 1em;">
   <figure style="text-align: center;">
-    <img src="/assets/img/internships/medtronic_internship.jpg" alt="Medtronic Internship" style="width: 525px; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/img/internships/medtronic_internship.jpg" alt="Medtronic Internship" style="width: 525px; border-radius: 8px;">
     <figcaption>Medtronic Internship in Cardiac Surgery R&D (Summer 2023 and 2024)</figcaption>
   </figure>
 </div>
