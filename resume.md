@@ -5,7 +5,9 @@ subtitle: Isaac H. Einstein • M.S. Mechanical Engineering (2025)
 # permalink: /resume/
 ---
 
-[📄 Download My Resume (Updated 07/2025)](/assets/pdf/resume.pdf){:target="_blank" download}  
+<!-- [📄 Download My Resume (Updated 07/2025)](/assets/pdf/resume.pdf){:target="_blank" download}   -->
+[📄 Download My Resume (Updated 07/2025)]({{ site.baseurl }}/assets/pdf/resume.pdf){:target="_blank" download}
+
 
 I'm a mechanical engineer specializing in biomedical device development, advanced materials, and CAD modeling. Currently pursuing my M.S. in Mechanical Engineering at The Ohio State University (expected December 2025), I bring a passion for solving complex design challenges that improve lives through innovative healthcare technology.
 
