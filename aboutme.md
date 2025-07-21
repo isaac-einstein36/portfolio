@@ -90,10 +90,11 @@ In my free time, I enjoy playing the acoustic guitar. I've been an avid guitar p
 
 <!-- Add Guitar Video -->
 <div style="text-align: center;">
-  <video width="480" controls style="border-radius: 8px;">
-    <source src="/assets/videos/Here Comes the Sun.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe src="https://drive.google.com/file/d/1o7qaNJOdG_cz0l37xXzFaxXKkMbkJTAW/preview"
+          width="480" height="270"
+          style="border-radius: 8px; border: none;"
+          allow="autoplay">
+  </iframe>
   <p style="margin-top: 8px; color: #555">
     Here Comes the Sun • The Beatles
   </p>
