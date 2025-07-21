@@ -20,7 +20,9 @@ author: Isaac Einstein
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/aboutme/"
+  Resume: "/resume/"
+  Projects: "/projects/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
