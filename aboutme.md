@@ -63,7 +63,7 @@ I started my exploration into possible careers with a co-op with ExxonMobil at t
 <!-- Add picture of Exxon Internship -->
 <div style="display: flex; gap: 25px; justify-content: center;">
   <img src="{{ site.baseurl }}/assets/img/internships/exxon_internship.jpeg" alt="Exxon Internship" style="width: 250px; border-radius: 8px;">
-  <img src="{{ site.baseurl }}/assets/img/internships/swamp_tour.jpg" alt="Swamp Tour" style="width: 250px; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/img/internships/swamp_tour.JPG" alt="Swamp Tour" style="width: 250px; border-radius: 8px;">
 </div>
 <p style="text-align: center; margin-top: 8px; color: #555;">
   My first engineering co-op at ExxonMobil in Baton Rouge, LA (Spring 2022)
