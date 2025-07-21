@@ -68,7 +68,8 @@ My twin sister and I are the youngest of 5 children, and all of us attended THE 
 ## Career Path
 I knew from a young age when I took my first algebra class in 4th grade that I enjoyed math. From there, that interest continued to grow and was confirmed when I took calculus and physics in high school.That solidified my decision to pursue mechanical engineering – a field where I could apply math, physics, and design to solve real-world problems.
 
-I quickly faced the challenge of finding my niche within the broad breadth of industries encompassed in mechanical engineering. My freshman-year user-centered design project sparked a strong interest in R&D and early-stage product development (see more in [projects]({{ site.baseurl }}/projects/)). 
+I quickly faced the challenge of finding my niche within the broad breadth of industries encompassed in mechanical engineering. My freshman-year user-centered design project sparked a strong interest in R&D and early-stage product development (see more in [projects]({{ site.baseurl }}/projects/)).
+
 
 I started my exploration into possible careers with a **co-op with ExxonMobil** at their main oil refinery in Baton Rouge, LA. 
 
