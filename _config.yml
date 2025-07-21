@@ -15,6 +15,8 @@ title: Isaac Einstein Portfolio
 # Your name to show in the footer
 author: Isaac Einstein
 
+baseurl: "/portfolio"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################

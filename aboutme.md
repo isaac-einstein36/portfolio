@@ -106,7 +106,7 @@ I've also transitioned from running to triathlons. I've completed Ironman 70.3 M
 <!-- Add picture of Ironman Michigan -->
 <div style="display: flex; justify-content: center; margin-bottom: 1em;">
   <figure style="text-align: center;">
-    <img src='assets/img/other_interests/ironman_michigan.JPG' alt="Ironman Michigan" style="width: 525px; border-radius: 8px;">
+    <img src='{{ site.baseurl }}/assets/img/other_interests/ironman_michigan.JPG' alt="Ironman Michigan" style="width: 525px; border-radius: 8px;">
     <figcaption>My First Ironman – Ironman 70.3 Michigan (Fall 2024)</figcaption>
   </figure>
 </div>
