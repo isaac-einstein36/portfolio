@@ -22,7 +22,10 @@ title: About Me
       <a href="#other-interests">Other Interests</a>
       <ul>
         <li><a href="#guitar">Guitar</a></li>
+        <li><a href="#running">Running</a></li>
         <li><a href="#triathlons">Triathlons</a></li>
+        <li><a href="#3d-printing">3D Printing</a></li>
+        <li><a href="#woodworking">Woodworking</a></li>
       </ul>
     </li>
   </ul>
@@ -36,15 +39,11 @@ My name is Isaac Einstein and I am a mechanical engineer born and raised in Ohio
 ## Home Life
 I was initially born in Cleveland, Ohio and moved to Dayton in elementary school. I attended Centerville High School, where I played trumpet and served as a varsity Cross-Country captain.
 
-<!-- Add Picture of XC -->
-<div style="display: flex; gap: 25px; justify-content: center;">
+<!-- CHS Picture -->
+<div style="display: flex; justify-content: center; margin-bottom: 1em;">
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/img/cross_country/xc_freshman.jpeg" alt="Freshman XC" style="width: 250px; border-radius: 8px;">
-    <figcaption>Freshman Year (2016)</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/assets/img/cross_country/xc_senior.jpeg" alt="Senior XC" style="width: 250px; border-radius: 8px;">
-    <figcaption>Senior Year (2020)</figcaption>
+    <img src="{{ site.baseurl }}/assets/img/chs.jpg" alt="CHS Photo" style="width: 525px; border-radius: 8px;">
+    <figcaption>Centerville High School (2016 - 2020)</figcaption>
   </figure>
 </div>
 
@@ -122,6 +121,20 @@ In my free time, I enjoy playing the acoustic guitar. I've been an avid guitar p
 <!-- Section Break -->
 <hr style="margin: 3em auto; width: 80%;">
 
+### Running
+Since 4th grade, I've been an avid runner. After Cross-Country in high school, I continued my training to eventually run two marathons.
+
+<!-- Marathon picture -->
+<div style="display: flex; justify-content: center; margin-bottom: 1em;">
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/img/marathon.jpg" alt="Marathon Photo" style="width: 525px; border-radius: 8px;">
+    <figcaption>My first marathon (Fall 2022)</figcaption>
+  </figure>
+</div>
+
+<!-- Section Break -->
+<hr style="margin: 3em auto; width: 80%;">
+
 ### Triathlons
 I've also transitioned from running to triathlons. I've completed Ironman 70.3 Michigan and am training for Ironman Arizona this fall.
 
@@ -132,8 +145,26 @@ I've also transitioned from running to triathlons. I've completed Ironman 70.3 M
     <figcaption>My First Ironman – Ironman 70.3 Michigan (Fall 2024)</figcaption>
   </figure>
 </div>
-<!-- assets/img/other_interests/ironman_michigan.JPG -->
 
+<!-- Section Break -->
+<hr style="margin: 3em auto; width: 80%;">
+
+### 3D Printing
+
+<!-- Under Construction -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; background-color: #fff8c4; padding: 1em; border: 2px solid #ffec3d; border-radius: 8px; margin: 2em 0;">
+  <strong style="font-size: 1.25em; color: #b58900;">⚠️This section is under construction⚠️</strong>
+</div>
+
+<!-- Section Break -->
+<hr style="margin: 3em auto; width: 80%;">
+
+### Woodworking
+
+<!-- Under Construction -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px; background-color: #fff8c4; padding: 1em; border: 2px solid #ffec3d; border-radius: 8px; margin: 2em 0;">
+  <strong style="font-size: 1.25em; color: #b58900;">⚠️This section is under construction⚠️</strong>
+</div>
 
 <!-- Section Break -->
 <hr style="margin: 3em auto; width: 80%;">
