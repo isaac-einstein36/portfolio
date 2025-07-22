@@ -31,6 +31,8 @@ permalink: /projects/nap-pod/
 
 **Technologies**: Raspberry Pi, OpenCV, Arduino, SolidWorks, 3D Printing
 
+[Click to [**Download the Full Report**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/einstein_15_buckeyemail_osu_edu/EYr96sVKf_dDvc53n9DVc3gBzIeyYqYa_lcQ5s56TYEvfg?e=wsoaTq)]
+
 ---
 
 ### Summary
@@ -39,12 +41,57 @@ This project integrated hardware and software to create a mechatronic nap pod th
 ### Features
 - Raspberry Pi with facial detection using OpenCV
 - Servo-powered privacy enclosure
-- SolidWorks-modeled frame and brackets
-- 3D printed, lightweight and durable
+- Fully functional cardboard/wood prototype
+- User interface to reserve and interact with the nap pod
 - Email reservation and access system
 
-### Images
-<img src="{{ site.baseurl }}/assets/img/projects/nap_pod.png" alt="Nap Pod Internal" style="max-width:100%; border-radius: 8px;">
+### Images/Videos
+<figure style="
+  max-width: 600px;
+  margin: 2em auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  text-align: center;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
+">
+  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod.png" alt="Nap Pod Internal" style="max-width:100%; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; color: #555;">Prototype of Smart Nap Pod prototype.</figcaption>
+</figure>
+
+<figure style="
+  max-width: 600px;
+  margin: 2em auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  text-align: center;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
+">
+  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod_gui.png" alt="Nap Pod GUI" style="max-width:100%; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; color: #555;">Nap Pod GUI Screens</figcaption>
+</figure>
+
+<figure style="
+  max-width: 600px;
+  margin: 2em auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  text-align: center;
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
+">
+  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod_booking.png" alt="Nap Pod Booking" style="max-width:100%; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; color: #555;">
+  Nap Pod Booking Site
+  <a href="https://outlook.office.com/book/SleepPod@buckeyemail.osu.edu/" target="_blank" style="color: #007bff; text-decoration: none;">
+    [Click to View Site]
+  </a>
+  </figcaption>
+</figure>
 
 ---
 

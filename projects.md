@@ -76,7 +76,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <div class="filter-btns">
   <button class="filter-btn active" onclick="filterProjects('all')">🌐 All</button>
-  <button class="filter-btn" onclick="filterProjects('med')">🧠 Medical Devices</button>
+  <button class="filter-btn" onclick="filterProjects('proto')">🛠️ Functional Prototypes</button>
   <button class="filter-btn" onclick="filterProjects('mech')">🛠️ Mechanical Design</button>
   <button class="filter-btn" onclick="filterProjects('code')">💻 Mechatronics / Code</button>
 </div>
@@ -88,28 +88,28 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
   <img src="{{ site.baseurl }}/assets/img/projects/nap_pod.png" alt="Smart Nap Pod">
   <div class="project-content">
     <div class="project-title">💤 Smart Nap Pod (Raspberry Pi)</div>
-    <p>Smart pod with face detection, privacy controls, and 3D printed structure using Raspberry Pi and OpenCV.</p>
+    <p>Smart sleeping pod with face detection, privacy controls, and 3D printed structure using Raspberry Pi and OpenCV.</p>
     <p><em>Smart Products • Spring 2025</em></p>
   </div>
 </a>
 
 <!-- MillerKnoll Capstone -->
-<a href="{{ site.baseurl }}/projects/ergonomics-capstone" class="project-card med">
+<a href="{{ site.baseurl }}/projects/senior-capstone" class="project-card proto">
   <img src="{{ site.baseurl }}/assets/img/projects/millerknoll.jpg" alt="MillerKnoll Capstone">
   <div class="project-content">
-    <div class="project-title">🧠 MillerKnoll Ergonomics Capstone</div>
-    <p>Led an interdisciplinary team to prototype ergonomic tools improving digital equity in the workplace.</p>
+    <div class="project-title">🪑 MillerKnoll Office Ergonomics Capstone</div>
+    <p>Led an interdisciplinary team to prototype a new desk concept improving digital equity in the workplace.</p>
     <p><em>Senior Capstone • 2023–2024</em></p>
   </div>
 </a>
 
 <!-- EchoCup -->
-<a href="{{ site.baseurl }}/projects/echocup" class="project-card med">
+<a href="{{ site.baseurl }}/projects/echocup" class="project-card proto">
   <img src="{{ site.baseurl }}/assets/img/projects/echocup.jpg" alt="EchoCup">
   <div class="project-content">
-    <div class="project-title">🔊 EchoCup – Accessible Measuring Cup</div>
-    <p>Award-winning device with audio feedback for the blind/visually impaired using sensors and microcontrollers.</p>
-    <p><em>Fundamentals II • Spring 2021</em></p>
+    <div class="project-title">🔊 EchoCup – Accessible Audio-Based Measuring Cup</div>
+    <p>Award-winning device with audio feedback for the blind and visually impaired community using a fully mechanical design.</p>
+    <p><em>Fundamental of Engineering II • Spring 2021</em></p>
   </div>
 </a>
 
@@ -138,7 +138,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
   <img src="{{ site.baseurl }}/assets/img/projects/drink_dispenser.jpg" alt="Drink Dispenser">
   <div class="project-content">
     <div class="project-title">🥤 Arduino Drink Dispenser</div>
-    <p>Built an automatic dispenser using Arduino and ultrasonic sensors with a focus on low-cost prototyping.</p>
+    <p>Built an automatic dispenser using Arduino and DC motors with a focus on low-cost prototyping.</p>
     <p><em>Design I • Fall 2022</em></p>
   </div>
 </a>
