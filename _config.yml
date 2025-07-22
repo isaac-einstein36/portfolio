@@ -27,7 +27,12 @@ navbar-links:
   Projects: #"/projects/"
       - All Projects: "/projects/"
       - Smart Nap Pod: "/projects/nap-pod/"
-      
+      - MillerKnoll Senior Capstone: "/projects/senior-capstone"
+      - ORC Power Plant Optimization: "/projects/orc-plant/"
+      - E-Bike Drivetrain: "projects/e-bike/"
+      - Audio-Based Measuring Cup: "projects/echocup"
+      - Arduino Drink Dispenser: "projects/drink-dispenser/"
+  Research: "/research"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

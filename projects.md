@@ -135,7 +135,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <!-- Drink Dispenser -->
 <a href="{{ site.baseurl }}/projects/drink-dispenser" class="project-card code">
-  <img src="{{ site.baseurl }}/assets/img/projects/drink_dispenser.jpg" alt="Drink Dispenser">
+  <img src="{{ site.baseurl }}/assets/img/projects/arduino_prototype.png" alt="Drink Dispenser">
   <div class="project-content">
     <div class="project-title">🥤 Arduino Drink Dispenser</div>
     <p>Built an automatic dispenser using Arduino and DC motors with a focus on low-cost prototyping.</p>

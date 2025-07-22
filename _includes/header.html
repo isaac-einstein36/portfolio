@@ -1,5 +1,6 @@
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
+
 {% if page.cover-img %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
@@ -61,5 +62,24 @@
     {% include {{ file }} %}
   {% endfor %}
 {% endif %}
+
+<!-- Style dropdown lists -->
+<style>
+/* Ensure dropdown width and text wrapping */
+.dropdown-menu.dropdown-menu-right {
+  min-width: 240px !important;
+  white-space: normal !important;
+}
+
+/* Style individual links inside dropdown */
+.dropdown-menu.dropdown-menu-right a {
+  white-space: normal !important;
+  word-wrap: break-word;
+  display: block;
+  padding: 0.5em 1em;
+  line-height: 1.4em;
+  width: 100%;
+}
+</style>
 
 </header>
