@@ -46,6 +46,7 @@ This project integrated hardware and software to create a mechatronic nap pod th
 - Email reservation and access system
 
 ### Images/Videos
+<!-- Nap Pod Prototype -->
 <figure style="
   max-width: 600px;
   margin: 2em auto;
@@ -60,6 +61,7 @@ This project integrated hardware and software to create a mechatronic nap pod th
   <figcaption style="margin-top: 0.5em; color: #555;">Prototype of Smart Nap Pod prototype.</figcaption>
 </figure>
 
+<!-- GUI -->
 <figure style="
   max-width: 600px;
   margin: 2em auto;
@@ -74,6 +76,7 @@ This project integrated hardware and software to create a mechatronic nap pod th
   <figcaption style="margin-top: 0.5em; color: #555;">Nap Pod GUI Screens</figcaption>
 </figure>
 
+<!-- Booking Page -->
 <figure style="
   max-width: 600px;
   margin: 2em auto;
@@ -92,6 +95,18 @@ This project integrated hardware and software to create a mechatronic nap pod th
   </a>
   </figcaption>
 </figure>
+
+<!-- Demonstration -->
+<div style="text-align: center;">
+  <iframe src="https://drive.google.com/file/d/12-9Qq1Vb3uFZoWyvIeGHRKQnCA1Lx7GY/preview"
+          width="560" height="315"
+          allow="autoplay"
+          style="border-radius: 8px; border: none;">
+  </iframe>
+  <p style="margin-top: 8px; color: #555;">
+    Smart Nap Pod Video Demo
+  </p>
+</div>
 
 ---
 
