@@ -28,13 +28,13 @@ permalink: /projects/orc-plant/
 }
 </style>
 
-## Smart Nap Pod (Raspberry Pi)
+## Organic Rankine Cycle Power Plant Optimization
 
-**Course**: Smart Products (Spring 2025)
+**Course**: Thermodynamics (Spring 2023)
 
-**Technologies**: Raspberry Pi, OpenCV, Arduino, SolidWorks, 3D Printing
+**Technologies**: 
 
-[Click to [**Download the Full Report**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/einstein_15_buckeyemail_osu_edu/EYr96sVKf_dDvc53n9DVc3gBzIeyYqYa_lcQ5s56TYEvfg?e=wsoaTq)]
+[Click to [**Download the Full Report**]({{site.baseurl }}/assets/pdf/orc_final_report.pdf)]
 
 ---
 
