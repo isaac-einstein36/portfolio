@@ -3,10 +3,6 @@ layout: page
 title: E-Bike Drivetrain Design
 permalink: /projects/e-bike/
 ---
-<!-- Under Construction -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 12px; background-color: #fff8c4; padding: 1em; border: 2px solid #ffec3d; border-radius: 8px; margin: 2em 0;">
-  <strong style="font-size: 1.25em; color: #b58900;">⚠️This page is under construction⚠️</strong>
-</div>
 
 [← Back to All Projects]({{ site.baseurl }}/projects/){: .back-btn }
 
@@ -34,22 +30,21 @@ permalink: /projects/e-bike/
 
 **Technologies**: Solidworks, Gear Ratios, Raspberry Pi, OpenCV, Arduino, SolidWorks, 3D Printing
 
-[Click to [**Download the Full Report**](https://buckeyemailosu-my.sharepoint.com/:b:/g/personal/einstein_15_buckeyemail_osu_edu/EYr96sVKf_dDvc53n9DVc3gBzIeyYqYa_lcQ5s56TYEvfg?e=wsoaTq)]
+[Click to [**Download the Full Report**]({{ site.baseurl }}/assets/pdf/e_bike_final_report.pdf)]
 
 ---
 
 ### Summary
-This project integrated hardware and software to create a mechatronic nap pod that detects users via facial recognition, opens a privacy door, and automatically resets based on usage time.
+This project invovled created a functional drivetrain for a hubless pedal assisted e-bike running on a 350W DC motor. All gear/power ratios were determined to align with standard commuter bicycle conditions. A full SolidWorks assembly was created accounting for space and weight limitations.
 
 ### Features
-- Raspberry Pi with facial detection using OpenCV
-- Servo-powered privacy enclosure
-- Fully functional cardboard/wood prototype
-- User interface to reserve and interact with the nap pod
-- Email reservation and access system
+- Functional and implementable drivetrain
+- Novel design for a hubless e-bike
+- Full SolidWorks assembly
+- All existing parts sourced; all custom parts fully dimensioned
 
-### Images/Videos
-<!-- Nap Pod Prototype -->
+### Images
+<!-- SolidWorks Assembly -->
 <figure style="
   max-width: 600px;
   margin: 2em auto;
@@ -60,11 +55,11 @@ This project integrated hardware and software to create a mechatronic nap pod th
   text-align: center;
   box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
 ">
-  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod.png" alt="Nap Pod Internal" style="max-width:100%; border-radius: 8px;">
-  <figcaption style="margin-top: 0.5em; color: #555;">Prototype of Smart Nap Pod prototype.</figcaption>
+  <img src="{{ site.baseurl }}/assets/img/projects/ebike_drivetrain.png" alt="E-Bike Drive Train" style="max-width:100%; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; color: #555;">Full drivetrain for hubless e-bike</figcaption>
 </figure>
 
-<!-- GUI -->
+<!-- Gear Ratios -->
 <figure style="
   max-width: 600px;
   margin: 2em auto;
@@ -75,40 +70,8 @@ This project integrated hardware and software to create a mechatronic nap pod th
   text-align: center;
   box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
 ">
-  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod_gui.png" alt="Nap Pod GUI" style="max-width:100%; border-radius: 8px;">
-  <figcaption style="margin-top: 0.5em; color: #555;">Nap Pod GUI Screens</figcaption>
+  <img src="{{ site.baseurl }}/assets/img/projects/ebike_gear_ratios.png" alt="Gear Ratios" style="max-width:100%; border-radius: 8px;">
+  <figcaption style="margin-top: 0.5em; color: #555;">Gear Ratios for E-Bike</figcaption>
 </figure>
-
-<!-- Booking Page -->
-<figure style="
-  max-width: 600px;
-  margin: 2em auto;
-  padding: 1em;
-  border: 1px solid #ccc;
-  border-radius: 12px;
-  background-color: #f9f9f9;
-  text-align: center;
-  box-shadow: 2px 4px 10px rgba(0,0,0,0.05);
-">
-  <img src="{{ site.baseurl }}/assets/img/projects/nap_pod_booking.png" alt="Nap Pod Booking" style="max-width:100%; border-radius: 8px;">
-  <figcaption style="margin-top: 0.5em; color: #555;">
-  Nap Pod Booking Site
-  <a href="https://outlook.office.com/book/SleepPod@buckeyemail.osu.edu/" target="_blank" style="color: #007bff; text-decoration: none;">
-    [Click to View Site]
-  </a>
-  </figcaption>
-</figure>
-
-<!-- Demonstration -->
-<div style="text-align: center;">
-  <iframe src="https://drive.google.com/file/d/12-9Qq1Vb3uFZoWyvIeGHRKQnCA1Lx7GY/preview"
-          width="560" height="315"
-          allow="autoplay"
-          style="border-radius: 8px; border: none;">
-  </iframe>
-  <p style="margin-top: 8px; color: #555;">
-    Smart Nap Pod Video Demo
-  </p>
-</div>
 
 ---

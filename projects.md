@@ -115,7 +115,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <!-- E-Bike -->
 <a href="{{ site.baseurl }}/projects/e-bike" class="project-card mech">
-  <img src="{{ site.baseurl }}/assets/img/projects/ebike.jpg" alt="E-Bike Drivetrain">
+  <img src="{{ site.baseurl }}/assets/img/projects/ebike_drivetrain.png" alt="E-Bike Drivetrain">
   <div class="project-content">
     <div class="project-title">⚡ E-Bike Drivetrain Design</div>
     <p>Converted a conventional bike to pedal-assist with 350W DC motor, 1:3 gear ratio, and SolidWorks drivetrain.</p>
