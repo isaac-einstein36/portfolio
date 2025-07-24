@@ -95,7 +95,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <!-- MillerKnoll Capstone -->
 <a href="{{ site.baseurl }}/projects/senior-capstone" class="project-card proto">
-  <img src="{{ site.baseurl }}/assets/img/projects/millerknoll.jpg" alt="MillerKnoll Capstone">
+  <img src="{{ site.baseurl }}/assets/img/projects/miller_knoll_cad.png" alt="MillerKnoll Capstone">
   <div class="project-content">
     <div class="project-title">🪑 MillerKnoll Office Ergonomics Capstone</div>
     <p>Led an interdisciplinary team to prototype a new desk concept improving digital equity in the workplace.</p>
@@ -105,7 +105,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <!-- EchoCup -->
 <a href="{{ site.baseurl }}/projects/echocup" class="project-card proto">
-  <img src="{{ site.baseurl }}/assets/img/projects/echocup.jpg" alt="EchoCup">
+  <img src="{{ site.baseurl }}/assets/img/projects/safepour_rendering.jpg" alt="EchoCup">
   <div class="project-content">
     <div class="project-title">🔊 EchoCup – Accessible Audio-Based Measuring Cup</div>
     <p>Award-winning device with audio feedback for the blind and visually impaired community using a fully mechanical design.</p>
@@ -125,7 +125,7 @@ Welcome! Below are highlights of my most meaningful engineering and design proje
 
 <!-- ORC Plant -->
 <a href="{{ site.baseurl }}/projects/orc-plant" class="project-card mech">
-  <img src="{{ site.baseurl }}/assets/img/projects/orc.jpg" alt="ORC Plant Model">
+  <img src="{{ site.baseurl }}/assets/img/projects/orc.png" alt="ORC Plant Model">
   <div class="project-content">
     <div class="project-title">🔥 ORC Power Plant Efficiency</div>
     <p>Optimized Organic Rankine Cycle power plant using thermodynamic calculations and MATLAB modeling.</p>
