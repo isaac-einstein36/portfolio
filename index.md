@@ -24,7 +24,7 @@ Learn about my background, family, career path, and interests — from triathlon
 Check out featured engineering projects and research, spanning design, prototyping, and development.
 
 ### 📄 [Resume]({{ site.baseurl }}/assets/pdf/resume.pdf){:target="_blank" download}
-View or download my resume (Updated July 2025).
+View or download my resume (Updated September 2026).
 
 ---
 
